@@ -1,5 +1,7 @@
 # matorikkusu
 
+![Screenshot](/screenshot.png)
+
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
