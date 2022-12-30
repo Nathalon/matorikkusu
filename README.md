@@ -5,6 +5,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ========================================================================================================================================
 
+Installation (installing via Git): GNU/Linux [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+=======================================================================================================================
 **1. If you don't have already installed Git, refer to the following link. [Installing Git on GNU/Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**  
 **2. Now clone the package. `$ git clone https://github.com/Nathalon/matorikkusu.git`**  
 **3. You will first need to install pip3 by executing the following command. `$ sudo apt install python3-pip`**  
