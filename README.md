@@ -8,5 +8,7 @@
 **1. If you don't have already installed Git, refer to the following link. [Installing Git on GNU/Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**  
 **2. Now clone the package. `$ git clone https://github.com/Nathalon/matorikkusu.git`**  
 **3. Navigate to the cloned directory. `$ cd matorikkusu`**  
+**3. You will first need to install pip3 by executing the following command. In GNU/Linux systems it's really easy `$ sudo apt install python3-pip`**  
+**4. Now it's a simple case of executing the requirements. `$ pip3 install -r requirements.txt`**  
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
